@@ -7,4 +7,4 @@ A curated list of awesome tvOS [libraries](#libraries) and [resources](#resource
 - [Resources](#resources)
     - [tvOS Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
     - [App Programming Guide for tvOS](https://developer.apple.com/library/prerelease/tvos/documentation/General/Conceptual/AppleTV_PG/YourFirstAppleTVApp.html)
-     - [Human Interface Guidelines](https://developer.apple.com/tvos/human-interface-guidelines/)
+   - [Human Interface Guidelines](https://developer.apple.com/tvos/human-interface-guidelines/)
