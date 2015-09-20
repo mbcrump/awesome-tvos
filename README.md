@@ -2,6 +2,10 @@
 
 A curated list of awesome tvOS [libraries](#libraries) and [resources](#resources). For swift libraries have a look at [awesome-swift](https://github.com/matteocrippa/awesome-swift).
 
+### Contributing
+
+Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a resource or library here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. 
+
 - [Libraries](#libraries)
   
 - [Resources](#resources)
