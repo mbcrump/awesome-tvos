@@ -11,6 +11,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [An Emulator for tvOS that supports multiple systems](https://github.com/jasarien/Provenance)
     - [Swift and Metal Example for tvOS](https://github.com/memkite/MetalForTVOS)
     - [An Apple TV Skeeball game](https://github.com/KnightArtorias/Thunder-Ball)
+    - [Example tvOS to show IMDB movies](https://github.com/ChristianLysne/TVOS-Example)
+    - [Integrating 3rd Party Controls by Telerik into tvOS](https://github.com/telerik/ios-sdk/tree/master/TestTV)
   
 - [Learning Resources](#resources)
     - [tvOS Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
