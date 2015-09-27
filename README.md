@@ -14,8 +14,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Example tvOS to show IMDB movies](https://github.com/ChristianLysne/TVOS-Example)
     - [Integrating 3rd Party Controls by Telerik into tvOS](https://github.com/telerik/ios-sdk/tree/master/TestTV)
   
-- [Learning Resources](#resources)
+- [Official Learning Resources](#resources)
     - [tvOS Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
     - [App Programming Guide for tvOS](https://developer.apple.com/library/prerelease/tvos/documentation/General/Conceptual/AppleTV_PG/YourFirstAppleTVApp.html)
     - [iOS 9 to tvOS 9 API Differences](https://developer.apple.com/library/prerelease/tvos/releasenotes/General/tvOS90APIDiffs/index.html#//apple_ref/doc/uid/TP40016577)
    - [Human Interface Guidelines](https://developer.apple.com/tvos/human-interface-guidelines/)
+
+- [3rd Party Tutorials](#tutorials)
+    - [tvOS Development](http://www.thomashanning.com/tvos-development/)
+
