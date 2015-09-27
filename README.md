@@ -22,4 +22,5 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 - [3rd Party Tutorials](#tutorials)
     - [tvOS Development](http://www.thomashanning.com/tvos-development/)
+    - [Beginning tvOS Development with tvOS](http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial)
 
