@@ -13,6 +13,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [An Apple TV Skeeball game](https://github.com/KnightArtorias/Thunder-Ball)
     - [Example tvOS to show IMDB movies](https://github.com/ChristianLysne/TVOS-Example)
     - [Integrating 3rd Party Controls by Telerik into tvOS](https://github.com/telerik/ios-sdk/tree/master/TestTV)
+    - [Class-dump of tvOS headers from Xcode 7.1 beta 1](https://github.com/neonichu/tvOS-headers)
   
 - [Official Learning Resources](#resources)
     - [tvOS Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
@@ -23,4 +24,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 - [3rd Party Tutorials](#tutorials)
     - [tvOS Development](http://www.thomashanning.com/tvos-development/)
     - [Beginning tvOS Development with tvOS](http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial)
+    - [Slides & examples from a presentation on tvOS at Nashville CocoaHeads](https://github.com/blakemerryman/tvOS-Intro-from-CocoaHeads-Nashville)
+    - [Apple TV tvOS Hello World app in Swift](http://www.rockhoppertech.com/blog/apple-tv-tvos-hello-world-app-in-swift/)
+    - [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
+
+
 
