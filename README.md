@@ -27,6 +27,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Slides & examples from a presentation on tvOS at Nashville CocoaHeads](https://github.com/blakemerryman/tvOS-Intro-from-CocoaHeads-Nashville)
     - [Apple TV tvOS Hello World app in Swift](http://www.rockhoppertech.com/blog/apple-tv-tvos-hello-world-app-in-swift/)
     - [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
+    -[An Introduction Tutorial to tvOS and Sprite Kit](http://cartoonsmart.com/an-introduction-tutorial-to-tvos-and-sprite-kit/#initial-setup)
+    - [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
 
 
 
