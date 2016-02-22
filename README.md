@@ -14,6 +14,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Example tvOS to show IMDB movies](https://github.com/ChristianLysne/TVOS-Example)
     - [Integrating 3rd Party Controls by Telerik into tvOS](https://github.com/telerik/ios-sdk/tree/master/TestTV)
     - [Class-dump of tvOS headers from Xcode 7.1 beta 1](https://github.com/neonichu/tvOS-headers)
+    - [An open tvOS app for free and public available classic films](https://github.com/sarn/ARNClassicFilms)
   
 - [Official Learning Resources](#resources)
     - [tvOS Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
