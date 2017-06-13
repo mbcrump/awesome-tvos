@@ -33,3 +33,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 - [Components](#components)
     - [TVOSButton](https://github.com/movielala/TVOSButton)
     - [TVOSToast](https://github.com/movielala/TVOSToast)
+    - [TvLightSegments](https://github.com/macabeus/TvLightSegments)
+    - [FocusGuideHelper](https://github.com/macabeus/FocusGuideHelper)
+    
